@@ -1,4 +1,4 @@
-## Laboratory work № 6: Definite integrals
+# Laboratory work № 6: Definite integrals
 
 ## Problem statement
 
