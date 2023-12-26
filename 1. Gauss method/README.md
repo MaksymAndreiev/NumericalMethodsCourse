@@ -1,4 +1,4 @@
-Laboratory work # 1 Numerical methods for solving systems of linear equations. Gauss method
+# Laboratory work # 1: Numerical methods for solving systems of linear equations. Gauss method
 
 ## Problem statement
 1.	Find the solution of the system of linear equations by Gauss method. 
@@ -14,7 +14,7 @@ $$
 \end{align*}
 $$
 
-# Лабораторна робота № 1 Чисельні методи розв’язання систем лінійних рівнянь. Метод Гаусса
+# Лабораторна робота № 1: Чисельні методи розв’язання систем лінійних рівнянь. Метод Гаусса
 
 ## Постановка задачі
 1.	Знайти розв’язок системи лінійних рівнянь методом Гауса. 
