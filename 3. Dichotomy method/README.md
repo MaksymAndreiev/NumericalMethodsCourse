@@ -1,4 +1,4 @@
-# Laboratory work № 3: Numerical methods for solving transcendental equations. The dichotomy method.
+# Laboratory work № 3: Numerical methods for solving transcendental equations. The dichotomy method
 
 ## Problem statement
 
@@ -7,7 +7,7 @@ solution accuracy ε = $10^-4$.
 
 $$2.1x^3 + 1.4x^2 - 4.3x + 6.1 = 0$$
 
-# Лабораторна робота № 3: Чисельні методи розв’язання трансцендентних рівнянь. Метод дихотомії.
+# Лабораторна робота № 3: Чисельні методи розв’язання трансцендентних рівнянь. Метод дихотомії
 
 ## Постановка задачі
 
